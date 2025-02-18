@@ -1,0 +1,30 @@
+E:\RealTime Chat Room App\RealTime Chat Room App\bin\Debug\net8.0\appsettings.Development.json
+E:\RealTime Chat Room App\RealTime Chat Room App\bin\Debug\net8.0\appsettings.json
+E:\RealTime Chat Room App\RealTime Chat Room App\bin\Debug\net8.0\RealTime Chat Room App.staticwebassets.runtime.json
+E:\RealTime Chat Room App\RealTime Chat Room App\bin\Debug\net8.0\RealTime Chat Room App.exe
+E:\RealTime Chat Room App\RealTime Chat Room App\bin\Debug\net8.0\RealTime Chat Room App.deps.json
+E:\RealTime Chat Room App\RealTime Chat Room App\bin\Debug\net8.0\RealTime Chat Room App.runtimeconfig.json
+E:\RealTime Chat Room App\RealTime Chat Room App\bin\Debug\net8.0\RealTime Chat Room App.dll
+E:\RealTime Chat Room App\RealTime Chat Room App\bin\Debug\net8.0\RealTime Chat Room App.pdb
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\RealTime Chat Room App.GeneratedMSBuildEditorConfig.editorconfig
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\RealTime Chat Room App.AssemblyInfoInputs.cache
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\RealTime Chat Room App.AssemblyInfo.cs
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\RealTime Chat Room App.csproj.CoreCompileInputs.cache
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\RealTime Chat Room App.MvcApplicationPartsAssemblyInfo.cache
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\RealTime Chat Room App.RazorAssemblyInfo.cache
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\RealTime Chat Room App.RazorAssemblyInfo.cs
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\staticwebassets.build.json
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\staticwebassets.development.json
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\staticwebassets\msbuild.RealTime Chat Room App.Microsoft.AspNetCore.StaticWebAssets.props
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\staticwebassets\msbuild.build.RealTime Chat Room App.props
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.RealTime Chat Room App.props
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.RealTime Chat Room App.props
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\staticwebassets.pack.json
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\scopedcss\bundle\RealTime Chat Room App.styles.css
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\scopedcss\projectbundle\RealTime Chat Room App.bundle.scp.css
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\RealTime Chat Room App.dll
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\refint\RealTime Chat Room App.dll
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\RealTime Chat Room App.pdb
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\RealTime Chat Room App.genruntimeconfig.cache
+E:\RealTime Chat Room App\RealTime Chat Room App\obj\Debug\net8.0\ref\RealTime Chat Room App.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealTime Chat Room App", "RealTime Chat Room App\RealTime Chat Room App.csproj", "{FDBE3634-1F9D-48C9-A35C-0F01FF956054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDBE3634-1F9D-48C9-A35C-0F01FF956054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDBE3634-1F9D-48C9-A35C-0F01FF956054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDBE3634-1F9D-48C9-A35C-0F01FF956054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDBE3634-1F9D-48C9-A35C-0F01FF956054}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29E47147-4AEF-440F-A119-F60CBAB81272}
+	EndGlobalSection
+EndGlobal
